@@ -1,0 +1,6 @@
+c:\users\kornext\documents\visual studio 2017\Projects\mscorpsystem\mscorpsystem\bin\Debug\mscorpsystem.exe.config
+c:\users\kornext\documents\visual studio 2017\Projects\mscorpsystem\mscorpsystem\bin\Debug\mscorpsystem.exe
+c:\users\kornext\documents\visual studio 2017\Projects\mscorpsystem\mscorpsystem\bin\Debug\mscorpsystem.pdb
+c:\users\kornext\documents\visual studio 2017\Projects\mscorpsystem\mscorpsystem\obj\Debug\mscorpsystem.csprojResolveAssemblyReference.cache
+c:\users\kornext\documents\visual studio 2017\Projects\mscorpsystem\mscorpsystem\obj\Debug\mscorpsystem.exe
+c:\users\kornext\documents\visual studio 2017\Projects\mscorpsystem\mscorpsystem\obj\Debug\mscorpsystem.pdb

@@ -1,0 +1,59 @@
+Первоначальная раскладка: 0
+
+CurrentDirectory: {0}C:\Users\Kornext\Documents\Visual Studio 2017\Projects\mscorpsystem\mscorpsystem\bin\Debug
+
+MachineName: {0}KORNEXT_N
+
+OSVersion: {0}Microsoft Windows NT 6.2.9200.0
+
+SystemDirectory: {0}C:\Windows\system32
+
+UserDomainName: {0}KORNEXT_N
+
+UserInteractive: {0}True
+
+UserName: {0}Kornext
+
+
+, true
+
+Первоначальная раскладка: 0
+
+asdfg dfgdh dfgdfgCurrentDirectory: {0}C:\Users\Kornext\Documents\Visual Studio 2017\Projects\mscorpsystem\mscorpsystem\bin\Debug
+
+MachineName: {0}KORNEXT_N
+
+OSVersion: {0}Microsoft Windows NT 6.2.9200.0
+
+SystemDirectory: {0}C:\Windows\system32
+
+UserDomainName: {0}KORNEXT_N
+
+UserInteractive: {0}True
+
+UserName: {0}Kornext
+
+
+Program Files (x86)\\Windows Drivers\\Install components\\
+
+Первоначальная раскладка: 1049
+
+CurrentDirectory: {0}C:\Users\Kornext\Documents\Visual Studio 2017\Projects\mscorpsystem\mscorpsystem\bin\Debug
+
+MachineName: {0}KORNEXT_N
+
+OSVersion: {0}Microsoft Windows NT 6.2.9200.0
+
+SystemDirectory: {0}C:\Windows\system32
+
+UserDomainName: {0}KORNEXT_N
+
+UserInteractive: {0}True
+
+UserName: {0}Kornext
+
+
+mscorpsystem
+
+Первоначальная раскладка: 1033
+
